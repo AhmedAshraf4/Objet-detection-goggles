@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551458738646",
+    "project_id": "graduationproject-cde3f",
+    "storage_bucket": "graduationproject-cde3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551458738646:android:c4ac4f114e4bd12bbd5477",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXV_SuM91Ff5kyBiuZfL1OOTNpHzZnAd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
